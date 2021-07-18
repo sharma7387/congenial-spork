@@ -6,5 +6,6 @@
 #Author: Sudeep Sharma
 # START #
 echo "CPU Stats :" `iostat`
+echo "disk space :" `df -h`
 
 # END #
